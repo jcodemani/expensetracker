@@ -1,0 +1,26 @@
+Microservice
+===========
+
+
+Expense Tracker :
+
+1. Login using gmail or facebook
+2. Application login with some other email (phone number optional) 
+3. Account book for credit and debit
+4. Categories for any type of credit / debit entry
+5. (optional subcategory)
+6. Generate report of current balance.
+7. Monthly email
+8. Email for limit / alert set by user
+
+
+Alert / Limit email :
+- Write an algorithm to calculate based on limit
+- scheduled job / triggered job to calculate limit
+
+Forms :
+- Signup
+- Login
+- Home Page with Summary
+- Entry form
+- Quick view / detailed view of transaction. 
