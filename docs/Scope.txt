@@ -24,3 +24,8 @@ Forms :
 - Home Page with Summary
 - Entry form
 - Quick view / detailed view of transaction. 
+
+URL:
+http://localhost:8080/ExpenseTracker/rest/user
+Response:
+{"message":"Hello World"}
